@@ -7,3 +7,8 @@ Git is free software.
 
 
 I love you
+
+
+i hate you
+
+git hello!
